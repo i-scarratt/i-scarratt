@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-scarratt
 - 👀 I’m interested in Networks, Football and spending time with my wife two kids
-- 🌱 I’m currently learning Terraform coding
+- 🌱 I’m currently learning Network Security
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - via Git
 
