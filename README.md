@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-scarratt
-- 👀 I’m interested in Networks, Football and spending time with my wife two kids
-- 🌱 I’m currently learning Network Security
+- 👀 I’m interested in Networks, and spending time with my wife two children
+- 🌱 I’m currently learning lots of different things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - via Git
 
