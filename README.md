@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @i-scarratt
-- 👀 I’m interested in Networks, and spending time with my wife two children
+- 👋 Hi, I’m Ishmael Scarratt
+- 👀 I’m interested in Cyber Security, Networking, and spending time with my wife and two children
 - 🌱 I’m currently learning lots of different things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - via Git
